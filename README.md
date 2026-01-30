@@ -4,7 +4,6 @@ I am a **Back-End Developer and Software Engineer** specializing in **ASP.NET Co
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)  
 - 💻 Explore my projects on [GitHub](https://github.com/Youssef-M-Salama)  
-- 📄 View my [Resume](#) (replace `#` with your CV link)
 
 <br>
 
@@ -12,6 +11,7 @@ I am a **Back-End Developer and Software Engineer** specializing in **ASP.NET Co
 - 🚀 &nbsp; I’m currently working on **E-Commerce and Cart Rental projects**
 - 📚 &nbsp; I’m currently learning **advanced ASP.NET Core features**
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/Youssef-M-Salama)
+- 🏆 &nbsp; Active **Competitive Programmer**, participated in **ECPC and IEEE Xtreme**, solving advanced algorithm and data structure problems
 - 🛠️ &nbsp; Ask me about **C#, ASP.NET Core, SQL Server, or web development**
 - ✉️ &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)
 - 📄 &nbsp; My CV: [Download PDF](#) (replace `#` with your CV link)
