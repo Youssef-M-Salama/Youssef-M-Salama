@@ -14,7 +14,6 @@ I am a **Back-End Developer and Software Engineer** specializing in **ASP.NET Co
 - 🏆 &nbsp; Active **Competitive Programmer**, participated in **ECPC and IEEE Xtreme**, solving advanced algorithm and data structure problems
 - 🛠️ &nbsp; Ask me about **C#, ASP.NET Core, SQL Server, or web development**
 - ✉️ &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)
-- 📄 &nbsp; My CV: [Download PDF](#) (replace `#` with your CV link)
 
 <br>
 
