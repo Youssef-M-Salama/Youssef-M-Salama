@@ -15,7 +15,8 @@
 
 ## 💫 About Me
 
-I am a Back-End Developer specializing in **ASP.NET Core MVC/Web API, C#, SQL Server, and web application development**. I focus on building **robust web applications** while continuously improving my skills.
+I am a Back-End Developer specializing in **ASP.NET Core MVC/Web API, C#, SQL Server, and web application development**. I focus on **building robust web applications** while continuously improving my skills, enhancing my **problem-solving abilities**, and advancing through **competitive programming (CP)** and continuous learning.
+
 
 * 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)
 * 💻 Projects on [GitHub](https://github.com/Youssef-M-Salama)
