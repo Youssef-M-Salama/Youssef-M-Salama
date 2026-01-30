@@ -1,38 +1,78 @@
-## Hey 👋, I'm Youssef Salama
+<div align="center">
 
-I am a **Back-End Developer and Software Engineer** specializing in **ASP.NET Core MVC/Web API, C#, SQL Server, and web application development**. I focus on building **robust and maintainable web applications** while continuously improving my skills with modern technologies.  
+# 👋 Hey, I'm Youssef Salama
 
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)  
-- 💻 Explore my projects on [GitHub](https://github.com/Youssef-M-Salama)  
+### 🚀 Back-End Developer & Software Engineer
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=ASP.NET+Core+Developer;SQL+Server;Web+Applications" alt="Typing SVG" />
 
-### 📝 More About Me:
-- 🚀 &nbsp; I’m currently working on **E-Commerce and Cart Rental projects**
-- 📚 &nbsp; I’m currently learning **advanced ASP.NET Core features**
-- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/Youssef-M-Salama)
-- 🏆 &nbsp; Active **Competitive Programmer**, participated in **ECPC and IEEE Xtreme**, solving advanced algorithm and data structure problems
-- 🛠️ &nbsp; Ask me about **C#, ASP.NET Core, SQL Server, or web development**
-- ✉️ &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/youssif-salama-4b4408320/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Youssef-M-Salama)
 
-<br>
+</div>
 
-### 🔨 Languages and Tools:
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" height="42px"/></a>
-<a href="https://www.csharp.dev/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="42px"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="42px"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" height="42px"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="42px"/></a>
-<a href="https://www.html5.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="42px"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="42px"/></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="42px"/></a>
-<a href="https://www.visualstudio.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" height="42px"/></a>
+---
 
-<br><br>
+## 💫 About Me
 
-### 🛠️ My Projects
-<p><a href="https://github.com/Youssef-M-Salama/e-commerce-solution" target="_blank">E-Commerce Solution</a></p>
-<p><a href="https://github.com/Youssef-M-Salama/ecommerce-mvc-aspnetcore" target="_blank">E-Commerce Website</a></p>
-<p>Cart Rental System</p>
+I am a Back-End Developer specializing in **ASP.NET Core MVC/Web API, C#, SQL Server, and web application development**. I focus on building **robust web applications** while continuously improving my skills.
 
-<br><br><br>
+* 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)
+* 💻 Projects on [GitHub](https://github.com/Youssef-M-Salama)
+
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce Solution
+**Tech:** ASP.NET Core Web API  
+[GitHub Link](https://github.com/Youssef-M-Salama/e-commerce-solution)  
+
+### 🏪 E-Commerce Website
+**Tech:** ASP.NET Core MVC / EF Core  
+[GitHub Link](https://github.com/Youssef-M-Salama/ecommerce-mvc-aspnetcore)  
+
+### 🚗 Cart Rental System
+**Tech:** PHP / MySQL  
+Web application with admin dashboard and user interface for managing rental requests.
+
+---
+## 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/youssif-salama-4b4408320/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Youssef-M-Salama)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
+
+</div>
