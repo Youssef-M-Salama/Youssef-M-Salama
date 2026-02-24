@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=4FFFC4&center=true&vCenter=true&width=580&height=40&lines=Building+scalable+back-end+systems+%E2%80%94+API+first%2C+always.;Clean+architecture.+Robust+APIs.+Real+solutions.;ASP.NET+Core+%7C+Entity+Framework+Core+%7C+REST;Competitive+programmer.+Continuous+learner.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=4FFFC4&center=true&vCenter=true&width=600&height=40&lines=ASP.NET+Core+%7C+Web+API+%7C+MVC+%7C+Clean+Architecture;JWT+%7C+EF+Core+%7C+Repository+Pattern+%7C+SOLID;ECPC+Finalist+2024+%26+2025+%7C+Problem+Setter+%40+ICPC+PSU;Building+scalable+back-end+systems+%E2%80%94+API+first%2C+always.)](https://git.io/typing-svg)
 
 <br>
 
@@ -17,9 +17,11 @@
 
 ## About
 
-Back-End Developer focused on building robust, maintainable web systems using the .NET ecosystem. I care about clean architecture, well-designed APIs, and writing code that lasts. Currently sharpening my problem-solving skills through competitive programming and deepening my understanding of system design.
+Back-End Developer with hands-on experience building production-grade web systems using ASP.NET Core MVC and Web API. I focus on clean code, layered architecture, and RESTful API design — writing systems that are maintainable, secure, and built to scale.
 
-Based in Egypt. Open to remote opportunities.
+Beyond development, I am an active competitive programmer — ECPC Finalist in 2024 and 2025, IEEE Xtreme participant, and a Problem Setter at the ICPC PSU Community, where I design and review algorithmic problems for official contests. This background gives me a strong foundation in data structures, algorithms, and analytical thinking that directly sharpens the quality of code I produce.
+
+Currently pursuing a Bachelor's degree in Technology and Information Systems at Port Said University, expected 2026.
 
 ---
 
@@ -27,7 +29,7 @@ Based in Egypt. Open to remote opportunities.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,php,html,css,sqlserver,mysql,git,github,visualstudio,vscode,postman,linux&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,mysql,git,github,visualstudio,vscode,postman,docker,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -35,42 +37,49 @@ Based in Egypt. Open to remote opportunities.
 
 | Area | Stack |
 |---|---|
-| **Back-End** | ASP.NET Core Web API, ASP.NET Core MVC, C#, .NET 6/7/8 |
-| **Data** | SQL Server, MySQL, Entity Framework Core, LINQ, ADO.NET |
-| **Architecture** | Repository Pattern, Clean Architecture, RESTful Design |
-| **Front-End** | HTML5, CSS3, JavaScript, Razor Pages, Bootstrap |
-| **Tools** | Git, GitHub, Postman, Visual Studio, VS Code |
-| **Additional** | PHP, C++ (CP), OOP, SOLID Principles |
+| **Languages** | C#, JavaScript, SQL, HTML, CSS, C++ |
+| **Frameworks** | ASP.NET Core Web API, ASP.NET Core MVC |
+| **Architecture** | Clean Architecture, 3-Tier Architecture, Repository Pattern, SOLID, OOP |
+| **Data** | SQL Server, Entity Framework Core, LINQ, ADO.NET |
+| **Security** | JWT Authentication, ASP.NET Identity, Cookie-Based Authentication |
+| **Testing** | Unit Testing, Test-Driven Development (TDD) |
+| **Tools** | Git, GitHub, Swagger, Postman, Docker |
 
 ---
 
 ## Projects
 
-**E-Commerce Solution** — `ASP.NET Core Web API` `C#` `SQL Server` `EF Core`
-> RESTful back-end powering a full e-commerce platform. Product management, order lifecycle, authentication, and clean layered architecture.
-> [View Repository](https://github.com/Youssef-M-Salama/e-commerce-solution)
+**E-Commerce Solution** — `ASP.NET Core Web API` `JWT` `EF Core` `SQL Server`
+
+Scalable e-commerce back-end with separate Customer and Admin APIs. Implemented JWT-based authentication with role-based authorization, Fluent Validation, and SMTP email service for password reset and notifications. Applied Repository Pattern, Dependency Injection, AutoMapper, and SOLID principles throughout a clean layered architecture.
+
+[View Repository](https://github.com/Youssef-M-Salama/e-commerce-solution)
 
 ---
 
 **E-Commerce Website** — `ASP.NET Core MVC` `Entity Framework Core` `C#`
-> Server-rendered full-stack web application with product catalog, cart, checkout flow, and repository-pattern architecture.
-> [View Repository](https://github.com/Youssef-M-Salama/ecommerce-mvc-aspnetcore)
+
+Full-stack server-rendered web application with product catalog, cart, and checkout flow built using ASP.NET Core MVC and Entity Framework Core.
+
+[View Repository](https://github.com/Youssef-M-Salama/ecommerce-mvc-aspnetcore)
 
 ---
 
-**Car Rental System** — `PHP` `MySQL` `JavaScript`
-> Web application with a dedicated admin dashboard and user interface for browsing vehicles, submitting rental requests, and managing bookings.
+**Car Rental System** — `PHP` `MySQL`
+
+Web application with a dedicated admin dashboard and user interface for managing vehicle listings, rental requests, and booking workflows.
 
 ---
 
-## Currently
+## Competitions
 
-```text
-Building       ASP.NET Core Web APIs with clean architecture
-Learning       Advanced design patterns and system design
-Training       Competitive programming in C++
-Exploring      Microservices architecture concepts
-```
+| Competition | Year |
+|---|---|
+| ECPC Finalist | 2024, 2025 |
+| QECPC — ECPC Qualification Round | 2023 |
+| IEEE Xtreme Programming Competition | 2023, 2024 |
+| Problem Setter — ICPC PSU Community | 2024 — Present |
+| Contest Operations — ICPC PSU Community | 2023 |
 
 ---
 
@@ -82,7 +91,7 @@ Exploring      Microservices architecture concepts
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-M-Salama)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-youssifsalama47%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssifsalama47@gmail.com)
 
 </div>
 
