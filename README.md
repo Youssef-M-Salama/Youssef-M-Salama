@@ -1,79 +1,89 @@
 <div align="center">
 
-# 👋 Hey, I'm Youssef Salama
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:0d1117&height=220&section=header&text=Youssef%20Salama&fontSize=72&fontColor=4FFFC4&animation=fadeIn&fontAlignY=45&desc=Back-End%20Developer%20%20%7C%20%20ASP.NET%20Core%20%20%7C%20%20C%23%20%20%7C%20%20SQL%20Server&descSize=17&descAlignY=68&descColor=8b949e" />
 
-### 🚀 Back-End Developer & Software Engineer
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=ASP.NET+Core+Developer;Web+Applications" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=4FFFC4&center=true&vCenter=true&width=580&height=40&lines=Building+scalable+back-end+systems+%E2%80%94+API+first%2C+always.;Clean+architecture.+Robust+APIs.+Real+solutions.;ASP.NET+Core+%7C+Entity+Framework+Core+%7C+REST;Competitive+programmer.+Continuous+learner.)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/youssif-salama-4b4408320/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Youssef-M-Salama)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Salama-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssif-salama-4b4408320/)
+
 
 </div>
 
 ---
 
-## 💫 About Me
+## About
 
-I am a Back-End Developer specializing in **ASP.NET Core MVC/Web API, C#, SQL Server, and web application development**. I focus on **building robust web applications** while continuously improving my skills, enhancing my **problem-solving abilities**, and advancing through **competitive programming (CP)** and continuous learning.
+Back-End Developer focused on building robust, maintainable web systems using the .NET ecosystem. I care about clean architecture, well-designed APIs, and writing code that lasts. Currently sharpening my problem-solving skills through competitive programming and deepening my understanding of system design.
 
-
-* 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/youssif-salama-4b4408320/)
-* 💻 Projects on [GitHub](https://github.com/Youssef-M-Salama)
-
+Based in Egypt. Open to remote opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## Technology Stack
 
 <div align="center">
 
-### Languages & Frameworks
-
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,php,html,css,sqlserver,mysql,git,github,visualstudio,vscode,postman,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
----
+<br>
 
-## 🚀 Projects
-
-### 🛒 E-Commerce Solution
-**Tech:** ASP.NET Core Web API  
-[GitHub Link](https://github.com/Youssef-M-Salama/e-commerce-solution)  
-
-### 🏪 E-Commerce Website
-**Tech:** ASP.NET Core MVC / EF Core  
-[GitHub Link](https://github.com/Youssef-M-Salama/ecommerce-mvc-aspnetcore)  
-
-### 🚗 Cart Rental System
-**Tech:** PHP / MySQL  
-Web application with admin dashboard and user interface for managing rental requests.
+| Area | Stack |
+|---|---|
+| **Back-End** | ASP.NET Core Web API, ASP.NET Core MVC, C#, .NET 6/7/8 |
+| **Data** | SQL Server, MySQL, Entity Framework Core, LINQ, ADO.NET |
+| **Architecture** | Repository Pattern, Clean Architecture, RESTful Design |
+| **Front-End** | HTML5, CSS3, JavaScript, Razor Pages, Bootstrap |
+| **Tools** | Git, GitHub, Postman, Visual Studio, VS Code |
+| **Additional** | PHP, C++ (CP), OOP, SOLID Principles |
 
 ---
-## 📫 Connect
+
+## Projects
+
+**E-Commerce Solution** — `ASP.NET Core Web API` `C#` `SQL Server` `EF Core`
+> RESTful back-end powering a full e-commerce platform. Product management, order lifecycle, authentication, and clean layered architecture.
+> [View Repository](https://github.com/Youssef-M-Salama/e-commerce-solution)
+
+---
+
+**E-Commerce Website** — `ASP.NET Core MVC` `Entity Framework Core` `C#`
+> Server-rendered full-stack web application with product catalog, cart, checkout flow, and repository-pattern architecture.
+> [View Repository](https://github.com/Youssef-M-Salama/ecommerce-mvc-aspnetcore)
+
+---
+
+**Car Rental System** — `PHP` `MySQL` `JavaScript`
+> Web application with a dedicated admin dashboard and user interface for browsing vehicles, submitting rental requests, and managing bookings.
+
+---
+
+## Currently
+
+```text
+Building       ASP.NET Core Web APIs with clean architecture
+Learning       Advanced design patterns and system design
+Training       Competitive programming in C++
+Exploring      Microservices architecture concepts
+```
+
+---
+
+## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/youssif-salama-4b4408320/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Youssef-M-Salama)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssif-salama-4b4408320/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-M-Salama)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:0d1117&height=120&section=footer" />
