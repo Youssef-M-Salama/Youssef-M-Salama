@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=4FFFC4&center=true&vCenter=true&width=600&height=40&lines=ASP.NET+Core+%7C+Web+API+%7C+MVC+%7C+Clean+Architecture;JWT+%7C+EF+Core+%7C+Repository+Pattern+%7C+SOLID;ECPC+Finalist+2024+%26+2025+%7C+Problem+Setter+%40+ICPC+PSU;Building+scalable+back-end+systems+%E2%80%94+API+first%2C+always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=4FFFC4&center=true&vCenter=true&width=600&height=40&lines=ASP.NET+Core+10+%7C+Clean+Architecture+%7C+Redis;JWT+%7C+EF+Core+%7C+Repository+Pattern+%7C+SOLID;ECPC+Finalist+2024+%26+2025+%7C+Problem+Setter+%40+ICPC+PSU;Building+scalable+back-end+systems+%E2%80%94+API+first%2C+always.)](https://git.io/typing-svg)
 
 <br>
 
@@ -29,7 +29,7 @@ Currently pursuing a Bachelor's degree in Technology and Information Systems at 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,mysql,git,github,visualstudio,vscode,postman,docker,linux&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css,mysql,redis,git,github,visualstudio,vscode,postman,docker,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -38,20 +38,28 @@ Currently pursuing a Bachelor's degree in Technology and Information Systems at 
 | Area | Stack |
 |---|---|
 | **Languages** | C#, JavaScript, SQL, HTML, CSS, C++ |
-| **Frameworks** | ASP.NET Core Web API, ASP.NET Core MVC |
+| **Frameworks** | ASP.NET Core Web API (10.0), ASP.NET Core MVC |
 | **Architecture** | Clean Architecture, 3-Tier Architecture, Repository Pattern, SOLID, OOP |
-| **Data** | SQL Server, Entity Framework Core, LINQ, ADO.NET |
+| **Data** | SQL Server, Redis (Caching), Entity Framework Core, LINQ |
 | **Security** | JWT Authentication, ASP.NET Identity, Cookie-Based Authentication |
 | **Testing** | Unit Testing, Test-Driven Development (TDD) |
-| **Tools** | Git, GitHub, Swagger, Postman, Docker |
+| **Tools** | Git, GitHub, Swagger, Postman, Docker, Serilog |
 
 ---
 
 ## Projects
 
+**Waffer (وافر)** — `ASP.NET Core 10.0` `Clean Architecture` `Redis` `JWT` `EF Core`
+
+A marketplace platform connecting Charities and Donor Organizations to manage surplus food and donation needs. Implemented high-performance distributed caching using Redis, a robust Result Pattern for standardized API responses, and automated email workflows with MailKit. Applied Clean Architecture to ensure strict separation of concerns and maintainability across large-scale donation cycles.
+
+[View Repository](https://github.com/Youssef-M-Salama/app-api)
+
+---
+
 **E-Commerce Solution** — `ASP.NET Core Web API` `JWT` `EF Core` `SQL Server`
 
-Scalable e-commerce back-end with separate Customer and Admin APIs. Implemented JWT-based authentication with role-based authorization, Fluent Validation, and SMTP email service for password reset and notifications. Applied Repository Pattern, Dependency Injection, AutoMapper, and SOLID principles throughout a clean layered architecture.
+Scalable e-commerce back-end with separate Customer and Admin APIs. Implemented JWT-based authentication with role-based authorization, Fluent Validation, and SMTP email service for password reset and notifications. Applied Repository Pattern, Dependency Injection, and AutoMapper.
 
 [View Repository](https://github.com/Youssef-M-Salama/e-commerce-solution)
 
